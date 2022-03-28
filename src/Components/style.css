@@ -1,0 +1,17 @@
+.Main{
+    display: grid;
+  justify-content: space-around;
+  align-items: center;
+  background-color: bisque;
+  padding: 30px;
+  border: 40px;
+}
+.first{
+    padding: 10px;
+}
+.second{
+    padding: 10px;
+}
+.button{
+    padding: 10px;
+}
